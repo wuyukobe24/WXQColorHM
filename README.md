@@ -128,10 +128,11 @@ Enter same passphrase again:
 * OHPM包管理器只支持加密密钥认证，请在生成公私钥时输入密码。【解释：就是上面说的密码，后面上传包的时候会用】
 
 #### 5、登录[OpenHarmony三方库中心仓](https://ohpm.openharmony.cn/#/cn/home)官网，单击主页右上角的个人中心，新增OHPM公钥，将公钥文件（mykey.pub）的内容粘贴到公钥输入框中。
-![17、公钥添加](https://github.com/user-attachments/assets/d28edd75-f0dd-430b-8bc2-a12c267262ec)
+<img width="800" alt="17、公钥添加" src="https://github.com/user-attachments/assets/d28edd75-f0dd-430b-8bc2-a12c267262ec">
 
 公钥添加成功后显示：
-![18、公钥添加成功后](https://github.com/user-attachments/assets/6859423e-864c-40ec-9868-afad90cf37b3)
+
+<img width="800" alt="18、公钥添加成功后" src="https://github.com/user-attachments/assets/6859423e-864c-40ec-9868-afad90cf37b3">
 
 #### 6、打开命令行工具，将对应私钥文件路径配置到 .ohpmrc 文件中 key_path 字段上。
 执行以下命令进行配置：
