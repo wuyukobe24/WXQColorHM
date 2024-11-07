@@ -1,0 +1,10 @@
+{
+  "name": "@wxqos/wxqcolor",
+  "version": "1.0.0",
+  "description": "自定义一套颜色，直接引用即可",
+  "main": "Index.ets",
+  "author": "wxq24",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "compatibleSdkType": "HarmonyOS"
+}
